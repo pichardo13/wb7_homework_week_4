@@ -2,8 +2,8 @@
 ## Linked lists
 * [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) 
 * [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) 
-* [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) *havent started*
-* [Intersetion of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) *havent started*
+* [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)
+* [Intersetion of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) 
 * [Reverse Nodes in a K Group](https://leetcode.com/problems/reverse-nodes-in-k-group) *havent started*
 * [Lru Cache] **Not easy - needs doubly linked lists and hash map to get O(1) for both ops but arelatively common interview question.:**  (​https://leetcode.com/problems/lru-cache) *havent started*
 
