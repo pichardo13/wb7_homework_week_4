@@ -8,12 +8,11 @@
 * [Lru Cache] **Not easy - needs doubly linked lists and hash map to get O(1) for both ops but arelatively common interview question.:**  (​https://leetcode.com/problems/lru-cache) *havent started*
 
 ## Stacks
-*havent started*
 * [Baseball Game](https://leetcode.com/problems/baseball-game)
-* [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)
-* [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)
-* [Valid Parantheses](https://leetcode.com/problems/valid-parentheses)
-* [Score of Parantheses](https://leetcode.com/problems/score-of-parentheses)
+* [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) *havent started*
+* [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) *havent started*
+* [Valid Parantheses](https://leetcode.com/problems/valid-parentheses) *havent started*
+* [Score of Parantheses](https://leetcode.com/problems/score-of-parentheses) *havent started*
 
 ## Queues
 *havent started*
