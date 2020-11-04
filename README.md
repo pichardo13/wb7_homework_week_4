@@ -10,15 +10,14 @@
 ## Stacks
 * [Baseball Game](https://leetcode.com/problems/baseball-game)
 * [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)
-* [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) *havent started*
-* [Valid Parantheses](https://leetcode.com/problems/valid-parentheses) *havent started*
-* [Score of Parantheses](https://leetcode.com/problems/score-of-parentheses) *havent started*
+* [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) 
+* [Valid Parantheses](https://leetcode.com/problems/valid-parentheses) 
+* [Score of Parantheses](https://leetcode.com/problems/score-of-parentheses) *planning it out*
 
 ## Queues
-*havent started*
 * [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
-* [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-* [Rotate Array](https://leetcode.com/problems/rotate-array)
+* [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) 
+* [Rotate Array](https://leetcode.com/problems/rotate-array) *havent started*
 
 ## Heaps
 *havent started*
