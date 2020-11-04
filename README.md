@@ -17,7 +17,7 @@
 ## Queues
 * [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 * [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) 
-* [Rotate Array](https://leetcode.com/problems/rotate-array) *havent started*
+* [Rotate Array](https://leetcode.com/problems/rotate-array)
 
 ## Heaps
 *havent started*
