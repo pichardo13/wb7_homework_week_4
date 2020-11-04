@@ -9,7 +9,7 @@
 
 ## Stacks
 * [Baseball Game](https://leetcode.com/problems/baseball-game)
-* [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) *havent started*
+* [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)
 * [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) *havent started*
 * [Valid Parantheses](https://leetcode.com/problems/valid-parentheses) *havent started*
 * [Score of Parantheses](https://leetcode.com/problems/score-of-parentheses) *havent started*
