@@ -20,18 +20,16 @@
 * [Rotate Array](https://leetcode.com/problems/rotate-array)
 
 ## Heaps
-*havent started*
-* [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
-* [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
+* [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) *used heapq, would like to come back and implement from scratch*
+* [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) *contains a few bugs*
 
 ## Combinatorial generation
-*havent started*
 * [Subsets](https://leetcode.com/problems/subsets)
-* [Permutations](https://leetcode.com/problems/permutations)
-* [Combinations](https://leetcode.com/problems/combinations)
-* [Generate Parantheses](https://leetcode.com/problems/generate-parentheses)
-* [Gray Code](https://leetcode.com/problems/gray-code)
-* [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees)
+* [Permutations](https://leetcode.com/problems/permutations) *havent started*
+* [Combinations](https://leetcode.com/problems/combinations) *havent started*
+* [Generate Parantheses](https://leetcode.com/problems/generate-parentheses) *havent started*
+* [Gray Code](https://leetcode.com/problems/gray-code) *havent started*
+* [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees) *havent started*
 
 ## Backtracking
 *havent started*
