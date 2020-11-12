@@ -25,7 +25,7 @@
 
 ## Combinatorial generation
 * [Subsets](https://leetcode.com/problems/subsets)
-* [Permutations](https://leetcode.com/problems/permutations) *havent started*
+* [Permutations](https://leetcode.com/problems/permutations) 
 * [Combinations](https://leetcode.com/problems/combinations) 
 * [Generate Parantheses](https://leetcode.com/problems/generate-parentheses) *havent started*
 * [Gray Code](https://leetcode.com/problems/gray-code) *havent started*
