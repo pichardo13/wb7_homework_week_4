@@ -8,8 +8,6 @@ one of the chosen numbers is different.
 
 It is guaranteed that the number of unique combinations that sum up to target is less than 150 combinations for the given input.
 
- 
-
 Example 1:
 Input: candidates = [2,3,6,7], target = 7
 Output: [[2,2,3],[7]]
@@ -41,4 +39,11 @@ Constraints:
     1 <= target <= 500
 """
 def combinationSum(candidates, target):
-    ...
+    visited = set(candidates)
+    res = []
+
+    for i in candidates:
+        temp = []
+        diff = target - i
+        while diff > 0:
+            temp.append(i)
