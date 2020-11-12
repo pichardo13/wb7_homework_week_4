@@ -15,4 +15,18 @@ Output:
   [3,2,1]
 ]
 """
+# def permutate(nums):
+  
+#   result = []
+  
+#   for i in range(len(nums)):
+#     swap(nums[i], nums[i:])
+    
 
+#   return 
+
+# def swap(headIndex, nums):
+#   res = [headIndex]
+#   return 
+
+#not correct
