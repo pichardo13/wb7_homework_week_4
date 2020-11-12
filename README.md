@@ -26,7 +26,7 @@
 ## Combinatorial generation
 * [Subsets](https://leetcode.com/problems/subsets)
 * [Permutations](https://leetcode.com/problems/permutations) *havent started*
-* [Combinations](https://leetcode.com/problems/combinations) *havent started*
+* [Combinations](https://leetcode.com/problems/combinations) 
 * [Generate Parantheses](https://leetcode.com/problems/generate-parentheses) *havent started*
 * [Gray Code](https://leetcode.com/problems/gray-code) *havent started*
 * [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees) *havent started*
